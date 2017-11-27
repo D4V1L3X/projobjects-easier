@@ -1,6 +1,6 @@
 <?php
 
-$dbHost = '';
-$dbUser = '';
-$dbPassword = '';
-$dbDatabase = '';
+    $dbHost = '';
+    $dbUser = '';
+    $dbPassword = '';
+    $dbDatabase = '';

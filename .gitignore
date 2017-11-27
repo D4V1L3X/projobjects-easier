@@ -1,3 +1,4 @@
 vendor
 inc/config.php
 nbproject
+.idea
